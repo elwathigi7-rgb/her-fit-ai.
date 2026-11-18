@@ -1,0 +1,13 @@
+{
+  "name": "HER FIT AI | مدربتك الرياضية الشخصية",
+  "short_name": "HER FIT AI",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf8fc",
+  "theme_color": "#8265cc",
+  "description": "Bilingual fitness training, recovery, progression exercise videos and interactive AI coaching",
+  "lang": "ar",
+  "dir": "rtl"
+}
