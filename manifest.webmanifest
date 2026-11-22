@@ -1,0 +1,13 @@
+{
+  "name": "HER FIT AI | مدربتك الرياضية الشخصية",
+  "short_name": "HER FIT AI",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf8fc",
+  "theme_color": "#8265cc",
+  "description": "HER FIT AI v1.9.4: bilingual training, pregnancy and postpartum programs, and personalized Bridal Fit plans.",
+  "lang": "ar",
+  "dir": "rtl"
+}
