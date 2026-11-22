@@ -1,0 +1,27 @@
+{
+  "name": "HER FIT AI | مدربتك الرياضية الشخصية",
+  "short_name": "HER FIT AI",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf8fc",
+  "theme_color": "#8265cc",
+  "description": "HER FIT AI v2.0 beta: personalized workouts, recovery, on-device reminders and safer cloud sync.",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "./icons/herfit-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/herfit-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
